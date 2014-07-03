@@ -1,0 +1,5 @@
+[database]
+DATABASE_URI: mysql://dbusername:dbpassword@dbserver/dbname?charset=utf8&use_unicode=0
+
+[secrets]
+SECRET: adifferentlongstring
